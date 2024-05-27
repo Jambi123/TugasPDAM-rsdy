@@ -8,30 +8,7 @@
             font-family: Arial sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #a3ffb4;
-        }
-
-        input[type="number"] {
-            width: 95%;
-            padding: 8px;
-            margin-bottom: 20px;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-        }
-
-        button {
-            width: 100%;
-            padding: 10px;
-            background-color: #28a745;
-            border: none;
-            border-radius: 4px;
-            color: white;
-            font-size: 16px;
-            cursor: pointer;
-        }
-
-        button:hover {
-            background-color:#97e08a;
+            background-color: #31b1e0;
         }
 
         h2 {
@@ -43,6 +20,18 @@
             color: #333;
             padding: 60px 0;
         }
+        
+        input[type="number"] {
+            width: 95%;
+            padding: 8px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        
+
+       
 
         form {
             max-width: 400px;
@@ -60,7 +49,20 @@
             color: 7ed1e6;
         }
 
-        
+        button {
+            width: 100%;
+            padding: 10px;
+            background-color: #28a745;
+            border: none;
+            border-radius: 4px;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color:#97e08a;
+        }
     </style>
 </head>
 <body>
